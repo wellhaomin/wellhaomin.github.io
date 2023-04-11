@@ -66,4 +66,5 @@ redirect_from:
 * __Programming Skill__
   * C/C++, Python
   * Previous experience: MATLAB, SPSS, JAVA
-  * Operating System: Linux
+  * Operating System: Linux  
+  <table><tr><td bgcolor=Navy> </td></tr></table>
