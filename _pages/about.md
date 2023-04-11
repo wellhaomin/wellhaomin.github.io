@@ -10,11 +10,11 @@ redirect_from:
 
 👋 Hi, I'm Min.  
 😀 I'm interested in Robotics and so on.  
-🌱 I’m currently learning how to design a personal website.
+🌱 I’m currently learning how to design a personal website.  
 
-<img src="/images/about.jpg" alt="AI" title="AI change world!" width="500" >
+<img src="/images/about.jpg" alt="AI" title="AI change world!" width="500" >  
 
-<font color=Navy size=5 > <strong> Lastest News </strong> </font>
+<font color=Navy size=5 > <strong> Lastest News </strong> </font>  
 
 1. 🚀  
 2. 🌟....
