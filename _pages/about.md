@@ -17,7 +17,3 @@ redirect_from:
 
 1. 🚀  
 2. 🌟....
-CV
-<img src="/images/cv.png" alt="AI" title="cv" >  
-Transcripts
-<img src="/images/1.png" alt="AI" title="1" >
