@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 👋 Hi, I'm Min.  
-😀 I'm interested in Robotics and so on.  
+😀 I'm interested in Robotics and Autonomous System.  
 🌱 I’m currently learning how to design a personal website.  
 
 <img src="/images/about.jpg" alt="AI" title="AI change world!" >  
