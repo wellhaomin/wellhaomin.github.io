@@ -17,7 +17,7 @@ redirect_from:
   - Machine Learning
   - Artificial Intelligence
 
-<font color=Navy size=5 > <strong> Project experience </strong> </font>
+<font color=Navy size=5 > <strong> Project Experience </strong> </font>
 
 * __2022.02 - 2022.06 Graduation Projection__
 * __“ Development of a Portable System for Human Physiological Parameter Detection”__
@@ -40,7 +40,7 @@ redirect_from:
    - Compared CodeRelease B-human2018, 2019 and robots NAO V5, V6;
    - Took responsibility for the Defender’s code, conducted site planning and decisionmaking deployment, which cooperated with Keeper to block the enemy's goals;
 
-<font color=Navy size=5 > <strong>  Work experience </strong> </font>
+<font color=Navy size=5 > <strong>  Work Experience </strong> </font>
 
 * __2019.07 - 2022.06 Team member of Intelligent Robotics lab, CQUT__
   - Realized the path planning of Autolabor with the Point Cloud data collected by LIDAR;
@@ -54,7 +54,7 @@ redirect_from:
 * __2019.09 - 2020.01 Teaching Assistant of the Course "Calculus"__
 * __2020.09 - 2021.01 Teaching Assistant of the Course "Linear Algebra with Applications"__
 
-<font color=Navy size=5 > <strong>  Honors& Awards </strong> </font>
+<font color=Navy size=5 > <strong>  Honors & Awards </strong> </font>
 
 * 2022 Outstanding Graduate, CQUT
 
