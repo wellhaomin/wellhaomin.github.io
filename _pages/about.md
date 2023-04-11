@@ -17,4 +17,6 @@ redirect_from:
 <font color=Navy size=5 > <strong> Lastest News </strong> </font>  
 
 1. 🚀  
-2. 🌟....
+2. 🌟....  
+
+<table><tr><td bgcolor=Navy> </td></tr></table>
