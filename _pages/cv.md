@@ -67,4 +67,4 @@ redirect_from:
   * C/C++, Python
   * Previous experience: MATLAB, SPSS, JAVA
   * Operating System: Linux  
-  <table><tr><td bgcolor=Navy> </td></tr></table>
+<table><tr><td bgcolor=Navy> </td></tr></table>
