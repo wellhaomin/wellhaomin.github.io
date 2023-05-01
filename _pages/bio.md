@@ -9,8 +9,8 @@ redirect_from:
 
 <font color=Navy size=5 > <strong> Education </strong> </font>
 
-* __B.S. EE, Chongqing University of Technology,(CQUT) 2018 ~ 2022__
-* __B.S. CS, Jiangxi University of Finance and Economics,(JUFE) 2022 ~ current__ (Dual Degree)
+* __B.S. EE, Chongqing University of Technology,(CQUT) 2018 - 2022__
+* __B.S. CS, Jiangxi University of Finance and Economics,(JUFE) 2022 - current__ (Dual Degree)
 
 <font color=Navy size=5 > <strong> Interest Research Area </strong> </font>
 
@@ -26,13 +26,13 @@ redirect_from:
 <font color=Navy size=5 > <strong>  Work Experience </strong> </font>
 
 * __2019.07 - 2022.06 Team member of Intelligent Robotics lab, CQUT__
-* __Intern at Chongqing Liangjiang Semiconductor Research Institute [Outstanding Individual]__
+* __2021.07 Intern at Chongqing Liangjiang Semiconductor Research Institute [Outstanding Individual]__
 * __2019.09 - 2020.01 Teaching Assistant of the Course "Calculus"__
 * __2020.09 - 2021.01 Teaching Assistant of the Course "Linear Algebra with Applications"__
 
 <font color=Navy size=5 > <strong>  Honors & Awards </strong> </font>
 
-* 2022 Outstanding Graduate, CQUT
+* __2022 Outstanding Graduate, CQUT__
 
 <font color=Navy size=5 > <strong>  Skills </strong> </font>
 
