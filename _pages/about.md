@@ -19,4 +19,3 @@ redirect_from:
 1. 🚀  
 2. 🌟....  
 
-<table><tr><td bgcolor=Navy> </td></tr></table>
