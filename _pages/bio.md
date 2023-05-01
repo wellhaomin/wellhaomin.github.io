@@ -13,14 +13,13 @@ redirect_from:
 * __B.S. CS, Jiangxi University of Finance and Economics,(JUFE) 2022 ~ current__ (Dual Degree)
 
 <font color=Navy size=5 > <strong> Interest Research Area </strong> </font>
-  - Robotics
-  - Machine Learning
-  - Artificial Intelligence
+
+* __Robotics__
+* __Machine Learning__
+* __Artificial Intelligence__
 
 <font color=Navy size=5 > <strong> Project Experience </strong> </font>
 
-* __2022.02 - 2022.06 Graduation Projection__
-* __“ Development of a Portable System for Human Physiological Parameter Detection”__
 * __2021.02 Mathematical Contest in Modelling [Honorable Mention]__
 * __2019.07 - 2020.11 RoboCup China Open [National Second Prize]__
 
@@ -44,4 +43,3 @@ redirect_from:
   * C/C++, Python
   * Previous experience: MATLAB, SPSS, JAVA
   * Operating System: Linux  
-<table><tr><td bgcolor=Navy> </td></tr></table>
