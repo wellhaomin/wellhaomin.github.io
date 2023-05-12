@@ -19,11 +19,3 @@ redirect_from:
 1. 🚀  
 2. 🌟....  
 
-``` timeline
-# 2023-04-26  
-- Beginning  
-====  
-# 2023-05-11  
-- Got Corona Virus  
-====  
-```
