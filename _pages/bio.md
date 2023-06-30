@@ -9,8 +9,9 @@ redirect_from:
 
 <font color=Navy size=5 > <strong> Education </strong> </font>
 
-* __B.S. EE, Chongqing University of Technology,(CQUT) 2018 - 2022__
-* __B.S. CS, Jiangxi University of Finance and Economics,(JUFE) 2022 - current__ (Dual Degree)
+* __B.E. EE, Chongqing University of Technology,(CQUT) 2018 - 2022__
+* __B.S. CS, Jiangxi University of Finance and Economics,(JUFE) 2022 - current (Dual Degree)__
+* __M.S__
 
 <font color=Navy size=5 > <strong> Interest Research Area </strong> </font>
 
@@ -25,7 +26,7 @@ redirect_from:
 
 <font color=Navy size=5 > <strong>  Work Experience </strong> </font>
 
-* __2019.07 - 2022.06 Team member of Intelligent Robotics lab, CQUT__
+* __2019.07 - 2022.06  Intelligent Robotics lab, CQUT__
 
 <font color=Navy size=5 > <strong>  Honors & Awards </strong> </font>
 
