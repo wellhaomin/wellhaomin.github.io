@@ -14,9 +14,8 @@ redirect_from:
 😀 I'm interested in __Robotics and Autonomous System__.  
 🌱 Some Useful Tools:  
 
-1. https://events.infovaya.com/
-2. https://wikidocs.net/book/7888
-3. https://colab.research.google.com/ 
+1. https://wikidocs.net/book/7888
+2. https://colab.research.google.com/ 
 
 <font color=Navy size=5 > <strong> Lastest News </strong> </font>  
 
