@@ -26,4 +26,4 @@ redirect_from:
 
 |   4    |   5    |   6    |   7    |    8   |   9    |   10   |   11   |   12   |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 🏁Beginning | 😷Corona Virus | Exam |        |        |        |        |        |👌GEE |
+| 🏁Beginning | 😷Corona Virus | 🥴Exam |   😀    |        |        |        |        |👌GEE |
