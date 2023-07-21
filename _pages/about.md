@@ -27,3 +27,5 @@ redirect_from:
 |   4    |   5    |   6    |   7    |    8   |   9    |   10   |   11   |   12   |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 🏁Beginning | 😷Corona Virus | 🥴Exam |   😀    |        |        |        |        |👌GEE |
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6RPcX0ZhK4vyLMk8d1ONBnG8u8fPC3v4lXoavEy5HSs&cl=ffffff&w=a"></script>
