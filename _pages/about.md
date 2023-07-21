@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/about.jpg" alt="AI" title="AI change world!" width="800" >  
+<img src="/images/about.jpg" alt="AI" title="AI change world!" width="600" >  
 
 👋 Hi, I'm Min.  
 😀 I'm interested in __Robotics and Autonomous System__.  
@@ -28,4 +28,4 @@ redirect_from:
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 🏁Beginning | 😷Corona Virus | 🥴Exam |   😀    |        |        |        |        |👌GEE |
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6RPcX0ZhK4vyLMk8d1ONBnG8u8fPC3v4lXoavEy5HSs&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6RPcX0ZhK4vyLMk8d1ONBnG8u8fPC3v4lXoavEy5HSs&cl=ffffff&w=a" width="600"></script>
