@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/about.jpg" alt="AI" title="AI change world!" width="800" >  
+<font color=red size=5 > <strong> Website is being constructed. </strong> </font> 
 
-<font color=red size=8 > <strong> Website is being constructed. </strong> </font> 
+<img src="/images/about.jpg" alt="AI" title="AI change world!" width="800" >  
 
 👋 Hi, I'm Min.  
 😀 I'm interested in.  
