@@ -12,13 +12,13 @@ redirect_from:
 
 👋 Hi, I'm Min.  
 😀 I'm interested in.    
-🌱 Some Useful Tools:
+🌱 Some Useful Tools:  
 1. https://conferenceindex.org/
 2. https://colab.research.google.com/ 
 
 <font color=Navy size=5 > <strong> Lastest News </strong> </font>  
 
-1. 🚀  2024-01-18 As an intern in __UCAS__.  
+1. 🚀  2024-01  As an intern in __UCAS__.  
 2. 🌟....  
 
 <font color=Navy size=5 > <strong> TimeLine </strong> </font>  
