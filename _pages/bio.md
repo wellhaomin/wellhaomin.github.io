@@ -13,16 +13,19 @@ redirect_from:
 
 <font color=Navy size=5 > <strong> Interest Research Area </strong> </font>
 
+-
 
 <font color=Navy size=5 > <strong> Project Experience </strong> </font>
 
+-
 
 <font color=Navy size=5 > <strong>  Work Experience </strong> </font>
 
+-
 
 <font color=Navy size=5 > <strong>  Honors & Awards </strong> </font>
 
-
+-
 
 <font color=Navy size=5 > <strong>  Skills </strong> </font>
 
