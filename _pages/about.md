@@ -10,17 +10,22 @@ redirect_from:
 
 <img src="/images/about.jpg" alt="AI" title="AI change world!" width="800" >  
 
+_Website is being constructed._
+
 👋 Hi, I'm Min.  
-😀 I'm interested in __Robotics and Autonomous System__.  
+😀 I'm interested in .  
 🌱 Some Useful Tools:  
 1. https://conferenceindex.org/
-2. https://wikidocs.net/book/7888
-3. https://colab.research.google.com/ 
+2. https://colab.research.google.com/ 
 
 <font color=Navy size=5 > <strong> Lastest News </strong> </font>  
 
 1. 🚀  
 2. 🌟....  
+
+
+
+
 
 <font color=Navy size=5 > <strong> TimeLine </strong> </font>  
 
