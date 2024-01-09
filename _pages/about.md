@@ -18,7 +18,7 @@ redirect_from:
 
 <font color=Navy size=5 > <strong> Lastest News </strong> </font>  
 
-1. 🚀  As an intern in UCAS.  
+1. 🚀  2024-01-18 As an intern in __UCAS__.  
 2. 🌟....  
 
 <font color=Navy size=5 > <strong> TimeLine </strong> </font>   
