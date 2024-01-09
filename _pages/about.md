@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/about.jpg" alt="AI" title="AI change world!" width="800" >  
 
-<font color=Navy size=5 > <strong> Website is being constructed. </strong> </font> 
+<font color=red size=8 > <strong> Website is being constructed. </strong> </font> 
 
 👋 Hi, I'm Min.  
 😀 I'm interested in.  
