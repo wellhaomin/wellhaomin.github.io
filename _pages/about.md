@@ -13,8 +13,8 @@ redirect_from:
 <img src="/images/about.jpg" alt="AI" title="AI change world!" width="800" >  
 
 👋 Hi, I'm Min.  
-😀 I'm interested in.  
-🌱 Some Useful Tools:  
+😀 I'm interested in.    
+🌱 Some Useful Tools:
 1. https://conferenceindex.org/
 2. https://colab.research.google.com/ 
 
