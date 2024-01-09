@@ -10,10 +10,10 @@ redirect_from:
 
 <img src="/images/about.jpg" alt="AI" title="AI change world!" width="800" >  
 
-_Website is being constructed._
+<font color=Navy size=5 > <strong> Website is being constructed. </strong> </font> 
 
 👋 Hi, I'm Min.  
-😀 I'm interested in .  
+😀 I'm interested in.  
 🌱 Some Useful Tools:  
 1. https://conferenceindex.org/
 2. https://colab.research.google.com/ 
@@ -22,9 +22,6 @@ _Website is being constructed._
 
 1. 🚀  
 2. 🌟....  
-
-
-
 
 
 <font color=Navy size=5 > <strong> TimeLine </strong> </font>  
