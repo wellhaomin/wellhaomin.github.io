@@ -33,4 +33,3 @@ _Website is being constructed._
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 🏁Beginning | 😷Corona Virus | 🥴Exam |   😀    |        |        |        |        |👌GEE |
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6RPcX0ZhK4vyLMk8d1ONBnG8u8fPC3v4lXoavEy5HSs&cl=ffffff&w=a"></script>
