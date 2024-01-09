@@ -18,19 +18,18 @@ redirect_from:
 
 <font color=Navy size=5 > <strong> Lastest News </strong> </font>  
 
-1. 🚀  As an intern in UCAS.
+1. 🚀  As an intern in UCAS.  
 2. 🌟....  
 
+<font color=Navy size=5 > <strong> TimeLine </strong> </font>   
 
-<font color=Navy size=5 > <strong> TimeLine </strong> </font>  
-
-2023:
+2023:  
 
 |   4    |   5    |   6    |   7    |    8   |   9    |   10   |   11   |   12   |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 🏁Beginning | 😷Corona Virus | 🥴Exam |   😀    |        |        |        |        |👌GEE |
 
-2024:
+2024:  
 
 |   1    |   2    |   3    |   4    |    5   |   6    |   7   |   8   |   9   |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
