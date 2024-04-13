@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font color=red size=5 > <strong> Website Under Construction </strong> </font>    
+<font color=red size=8 > <strong> Website Under Construction </strong> </font>    
 
 👋 Hi, I'm Min.     
 
