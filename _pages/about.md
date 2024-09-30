@@ -17,5 +17,5 @@ redirect_from:
 
 <font color=Navy size=5 > <strong> Lastest News </strong> </font>  
 
-1. 🚀  Join in __UCAS__ as a M.S  2024/08/24   
+1. 🚀  2024/08/24   Join in __UCAS__ as a M.S   
 2. 🌟  ....    
