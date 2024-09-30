@@ -15,7 +15,7 @@ redirect_from:
 🌱 Some Useful Tools:  
 1. https://conferenceindex.org/   
 
-<font color=Navy size=5 > <strong> Lastest News </strong> </font>  
+<font color=Navy size=5 > <strong> News </strong> </font>  
 
 1. 🚀  2024/08/24   Join in __UCAS__ as a M.S   
 2. 🌟  ....    
